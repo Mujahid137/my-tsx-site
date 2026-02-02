@@ -1,9 +1,9 @@
+#download all the files
+#Put the files in a folder
+#run cmd or powershell
+#paste the code
 
-  # Website code request
-
-  This is a code bundle for Website code request. The original project is available at https://www.figma.com/design/jcNcryf0phqfWwrupCJz69/Website-code-request.
-
-  ## Running the code
+ ## Running the code
 
   Run `npm i` to install the dependencies.
 
